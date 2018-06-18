@@ -1,5 +1,8 @@
-# 🥃 Scotch-distillery-wheel 🥃
+# 🥃 Scotch Distillery Wheel 🥃
 
+## Single Malts Only
+
+-------------------------
 
 ### Dataset contains 
 
