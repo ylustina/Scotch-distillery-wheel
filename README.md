@@ -2,9 +2,9 @@
 
 ## Single Malts Only
 
--------------------------
 
-### Dataset contains 
+
+### Dataset Contains:
 
 - Distillery Name
 
